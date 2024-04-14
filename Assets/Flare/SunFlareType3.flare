@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!121 &12100000
+Flare:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SunFlareType3
+  m_FlareTexture: {fileID: 2800000, guid: 54e4504898e623640b2df9155fa29aa3, type: 3}
+  m_TextureLayout: 2
+  m_Elements:
+  - m_ImageIndex: 1
+    m_Position: 0.76
+    m_Size: 1.75
+    m_Color: {r: 0.066037714, g: 0.06520705, b: 0.06520705, a: 1}
+    m_UseLightColor: 0
+    m_Rotate: 1
+    m_Zoom: 0
+    m_Fade: 1
+  - m_ImageIndex: 0
+    m_Position: 0.47
+    m_Size: 2.18
+    m_Color: {r: 0.066037714, g: 0.066037714, b: 0.066037714, a: 0}
+    m_UseLightColor: 0
+    m_Rotate: 1
+    m_Zoom: 0
+    m_Fade: 1
+  - m_ImageIndex: 0
+    m_Position: 0.54
+    m_Size: 2.94
+    m_Color: {r: 0.0754717, g: 0.07523437, b: 0.07523437, a: 0}
+    m_UseLightColor: 0
+    m_Rotate: 1
+    m_Zoom: 0
+    m_Fade: 1
+  - m_ImageIndex: 0
+    m_Position: 0.16
+    m_Size: 1.46
+    m_Color: {r: 0.084905684, g: 0.084905684, b: 0.084905684, a: 0}
+    m_UseLightColor: 0
+    m_Rotate: 1
+    m_Zoom: 0
+    m_Fade: 1
+  - m_ImageIndex: 0
+    m_Position: 0.85
+    m_Size: 2.51
+    m_Color: {r: 0.028301895, g: 0.028301895, b: 0.028301895, a: 0}
+    m_UseLightColor: 0
+    m_Rotate: 1
+    m_Zoom: 0
+    m_Fade: 1
+  - m_ImageIndex: 0
+    m_Position: 0.95
+    m_Size: 5.93
+    m_Color: {r: 0.03773582, g: 0.03773582, b: 0.03773582, a: 0}
+    m_UseLightColor: 0
+    m_Rotate: 1
+    m_Zoom: 0
+    m_Fade: 1
+  - m_ImageIndex: 0
+    m_Position: 1.32
+    m_Size: 2.43
+    m_Color: {r: 0.066037714, g: 0.066037714, b: 0.066037714, a: 0}
+    m_UseLightColor: 0
+    m_Rotate: 1
+    m_Zoom: 0
+    m_Fade: 1
+  - m_ImageIndex: 0
+    m_Position: -0.36
+    m_Size: 0.71
+    m_Color: {r: 0.066037714, g: 0.066037714, b: 0.066037714, a: 0}
+    m_UseLightColor: 0
+    m_Rotate: 1
+    m_Zoom: 0
+    m_Fade: 1
+  - m_ImageIndex: 0
+    m_Position: -0.44
+    m_Size: 1.51
+    m_Color: {r: 0.047169805, g: 0.047169805, b: 0.047169805, a: 0}
+    m_UseLightColor: 0
+    m_Rotate: 1
+    m_Zoom: 0
+    m_Fade: 1
+  - m_ImageIndex: 0
+    m_Position: 0.9
+    m_Size: 2.88
+    m_Color: {r: 0.047169805, g: 0.047169805, b: 0.047169805, a: 0}
+    m_UseLightColor: 0
+    m_Rotate: 1
+    m_Zoom: 0
+    m_Fade: 1
+  - m_ImageIndex: 0
+    m_Position: 0.29
+    m_Size: 5.59
+    m_Color: {r: 0.05660379, g: 0.05660379, b: 0.05660379, a: 0}
+    m_UseLightColor: 0
+    m_Rotate: 1
+    m_Zoom: 0
+    m_Fade: 1
+  - m_ImageIndex: 0
+    m_Position: -0.26
+    m_Size: 1.7
+    m_Color: {r: 0.09433961, g: 0.09433961, b: 0.09433961, a: 0}
+    m_UseLightColor: 0
+    m_Rotate: 1
+    m_Zoom: 0
+    m_Fade: 1
+  m_UseFog: 0

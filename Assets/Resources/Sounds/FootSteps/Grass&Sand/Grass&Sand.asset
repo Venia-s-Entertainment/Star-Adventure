@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ca0b33fc8418644484ccb9d9b238bb5, type: 3}
+  m_Name: Grass&Sand
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: a0ece3435b40b504781862a635198817, type: 3}
+  - {fileID: 8300000, guid: 1185b343358f4ea4a8155e071f658af0, type: 3}
+  - {fileID: 8300000, guid: cb07153533e438f41ab9ae4bf2bf5926, type: 3}
+  - {fileID: 8300000, guid: cbb492d9e8c82a74491265e76a3c58bb, type: 3}
+  - {fileID: 8300000, guid: ff97be18e1b5f9c4591e7154b6f941fa, type: 3}
+  - {fileID: 8300000, guid: 7fcabfd728cf81244883eee559a8b0f4, type: 3}
+  - {fileID: 8300000, guid: c31c74269a113434fbd82ad486411339, type: 3}
